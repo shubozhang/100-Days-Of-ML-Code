@@ -36,7 +36,7 @@
 [多元线性回归实现](https://github.com/shubozhang/100-Days-Of-ML-Code/blob/master/Code/Day%203_Multiple_Linear_Regression.md)
 
 <p align="center">
-  <img src="https://github.com/shubozhang/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%203.png">
+  <img src="https://github.com/shubozhang/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%203.jpg">
 </p>
 
 ## 逻辑回归 | 第4天
